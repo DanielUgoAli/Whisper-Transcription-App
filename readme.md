@@ -4,6 +4,8 @@ A simple GUI application for audio transcription and translation using OpenAI's 
 
 ## Table of Contents
 
+### Read the notes below
+
 ## Features
 
 - Record audio directly from your microphone
@@ -14,7 +16,7 @@ A simple GUI application for audio transcription and translation using OpenAI's 
 ## Requirements
 
 - Python 3.7+
-- Whisper
+- Openai Whisper library
 - Sounddevice
 - Soundfile
 - Tkinter
